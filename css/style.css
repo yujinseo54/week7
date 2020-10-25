@@ -1,0 +1,133 @@
+@-webkit-keyframes title {
+
+  from {opacity: 0%;
+     }
+  to {opacity: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.poster {
+    width: 100%;
+    height: 100%;
+}
+
+.t1  {
+    position: absolute;
+    width: 22%;
+    height: 107%;
+    top: -4%;
+    left: 20%;
+    display: none;
+}
+
+.t2 {
+    position: absolute;
+    width: 22%;
+    height: 113%;
+    top: -9%;
+    left: 31.2%;
+    display: none;
+    
+}
+
+.t3 {
+    position: absolute;
+    width: 22%;
+    height: 112%;
+    top: -6%;
+    left: 39%;
+    display: none;
+}
+
+.t4 {
+    position: absolute;
+    width: 22%;
+    height: 116%;
+    top: -8%;
+    left: 47%;
+    display: none;
+}
+
+.t5 {
+    position: absolute;
+    width: 22%;
+    height: 111%;
+    top: -5%;
+    left: 56.8%;
+    display: none;
+}
+
+.b1 {
+    position: absolute;
+    width: 16%;
+    height: 27%;
+    top: 29%;
+    left: 32%;
+}
+
+.b2 {
+    position: absolute;
+    width: 15%;
+    height: 40%;
+    top: 55%;
+    left: 29%;
+}
+
+.b3 {
+    position: absolute;
+    width: 8%;
+    height: 18%;
+    top: 45%;
+    left: 51%;
+}
+
+.b4 {
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    top: 33%;
+    left: 61%;
+}
+
+.b5 {
+    position: absolute;
+    width: 14%;
+    height: 27%;
+    top: 60%;
+    left: 57%;
+}
+
+.d1 {
+    position: absolute;
+    width: 43%;
+    height: 82%;
+    top: 10%;
+    left: 28.4%;
+    display: none;
+}
+
+.love {
+   position: absolute;
+    width: 27%;
+    top: 7.2%;
+    left: 36%;
+    opacity: 0%;
+  animation-name: title;
+  animation-delay: 0.5s;
+  animation-duration: 4s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
